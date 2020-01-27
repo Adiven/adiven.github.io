@@ -4,7 +4,7 @@ name: Empire of Club Penguin
 description: "Home of the Stormtroopers."
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://adyven.github.io
+url: http://adiven.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)

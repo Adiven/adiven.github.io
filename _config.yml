@@ -1,28 +1,28 @@
 # Jekyll configuration
 
-name: Blog Name
-description: Software Developer
+name: Empire of Club Penguin
+description: "Home of the Stormtroopers."
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://streetturtle.github.io
+url: http://adyven.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: '/jekyll-clean-dark'
+baseurl: '/'
 
-author: Pavel Makhov
-copyright: 2015-2018
+author: Xander
+copyright: 2020
 
 share:
-  facebook: true
+  facebook: false
   twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
-  email: true
+  gplus: false
+  linkedin: false
+  pinterest: false
+  email: false
 
 social:
-  github: streetturtle
+  github: Adyven
   stackoverflow: ''
   linkedin:
   instagram: ''
